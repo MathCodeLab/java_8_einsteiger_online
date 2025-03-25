@@ -1,6 +1,6 @@
 # Programmieren mit Java [#8]: (Einstieger | Online)
 
-![Java 8](java_8.png)
+![Java 8](java_8.svg)
 
 Die Kapitel sind so organisiert, dass ihr einen groben ueberblick bekommt.
 
