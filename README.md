@@ -9,7 +9,7 @@ Die Kapitel sind so organisiert, dass ihr einen groben ueberblick bekommt.
 Die Ordnerstruktur sieht so aus:
 
 ```bash
-informathel_prog_mit_java
+java_8_einsteiger_online
 |____Notizen
 |____wichtigeDinge
 |____Hausaufgaben
