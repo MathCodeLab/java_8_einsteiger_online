@@ -1,6 +1,6 @@
 package live_coding.kapitel1_introduction;
 
-public class variablen_und_literale_1 {
+public class Variablen_und_literale_1 {
     public static void main(String[] args) {
 
         /*

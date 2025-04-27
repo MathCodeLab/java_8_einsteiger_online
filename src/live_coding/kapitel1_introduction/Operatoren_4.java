@@ -1,6 +1,6 @@
 package live_coding.kapitel1_introduction;
 
-public class operatoren_4 {
+public class Operatoren_4 {
     public static void main(String[] args) {
 
 
