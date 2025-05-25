@@ -1,6 +1,6 @@
 package live_coding.kapitel4_collections;
 
-public class ArraysClass {
+public class ArraysClass_1 {
     public static void main(String[] args) {
 
         // deklarieren und initalisieren

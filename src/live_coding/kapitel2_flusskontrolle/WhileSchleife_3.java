@@ -1,6 +1,6 @@
 package live_coding.kapitel4_collections;
 
-public class WhileSchleife {
+public class WhileSchleife_3 {
     public static void main(String[] args) {
 
         System.out.println("anfangs des programmes");

@@ -1,6 +1,6 @@
 package live_coding.kapitel2_flusskontrolle;
 
-public class If_Else_Klass1
+public class If_Else_Klass_1
 {
     public static void main(String[] args)
     {
