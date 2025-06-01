@@ -1,6 +1,6 @@
 package live_coding.kapitel3_weiterfuehrendeThemen;
 
-public class While_und_arrays {
+public class While_und_arrays_4 {
     public static void main(String[] args) {
         System.out.println("anfang des programms");
         // Aufgabe: erstelle irgendein array, das 10 elemente hat und print es aus.
